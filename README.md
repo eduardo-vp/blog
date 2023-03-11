@@ -1,1 +1,1 @@
-# blog
+Visit https://eduardo-vp.github.io/blog/
