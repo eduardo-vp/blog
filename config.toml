@@ -1,0 +1,4 @@
+baseURL = 'http://eduardo-vp.github.io/'
+languageCode = 'en-us'
+title = 'Posts'
+theme = 'ananke'
